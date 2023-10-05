@@ -158,7 +158,7 @@ const Dashboard = () => {
             p="15px"
           >
             <Typography variant="h6" color={colors.grey[100]} fontWeight="600">
-              Transactions
+              Transactions total
             </Typography>
           </Box>
           <Box height="250px">
